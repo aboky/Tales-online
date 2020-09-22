@@ -1,4 +1,4 @@
-# tales
+# Tales Online
 An very basic online game I've made to test phaser3 and socket.io ... and for fun of course.
 
 
