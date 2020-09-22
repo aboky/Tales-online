@@ -1,0 +1,25 @@
+{
+  "name": "tales",
+  "version": "1.0.0",
+  "description": "a multiplayer rpg",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html -p 1234",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KingThony",
+  "license": "ISC",
+  "dependencies": {
+    "assets": "^3.0.1",
+    "chemin": "^5.0.3",
+    "express": "^4.17.1",
+    "parcel-bundler": "^1.12.4",
+    "phaser": "^3.24.1",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
